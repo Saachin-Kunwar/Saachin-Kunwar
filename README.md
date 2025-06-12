@@ -23,8 +23,9 @@ I'm a beginner backend developer currently learning Python and Django. I enjoy c
 
 ---
 
-### 🔐 [Simple Login System](https://github.com/your-username/simple-login-django)
-Learning how to use Django's authentication system in a basic app.
+### 🚀 My Learning Projects
+##[Personal Voice Assistant](https://github.com/Saachin-Kunwar/-Personal-Voice-Assistant-with-Image-Captioning-and-GUI)
+A simple personal voice assistant with image captioning and gui using python only.
 📌 *More projects coming soon as I learn and grow!*
 
 ---
