@@ -33,7 +33,7 @@ A simple personal voice assistant with image captioning and gui using python onl
 ## 📫 How to Reach Me
 
 - 📧 Email: kunwarsachin003@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/saachin-kunwar-40073631a*(update when ready)*
+- 💼 LinkedIn: www.linkedin.com/in/saachin-kunwar-40073631a
 
   Thanks for visiting my profile!
 
